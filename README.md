@@ -1,6 +1,16 @@
 # Android-Development-Resources
 A random list of my bookmarks regarding Android Development and other related topics, updated whenever
 
+## Table of contents
+1. [General Android Stuff](#android)
+2. [Resources](#resources)
+3. [Marketing](#marketing)
+4. [Design](#design)
+5. [Git](#git)
+6. [Business](#business)
+7. [Kotlin](#kotlin)
+
+### General Android Stuff<a name="android"></a>
 
 [1] Android phone for developer. - Courses / Google Challenge Scholarship: Android Basics - Udacity Discussion Forum. Retrieved from https://discussions.udacity.com/t/android-phone-for-developer/415334/6
 
@@ -528,7 +538,7 @@ A random list of my bookmarks regarding Android Development and other related to
 
 [261] Nicolas Roard (@camaelon) | Twitter. Retrieved from https://twitter.com/camaelon?lang=en
 
-### Resources
+### Resources<a name="resources"></a>
 
 [1] Material Design Colors, Material Colors, Color Palette | Material UI. Retrieved from https://www.materialui.co/colors
 
@@ -688,7 +698,7 @@ A random list of my bookmarks regarding Android Development and other related to
 
 [79] Android WiFi ADB :: JetBrains Plugin Repository. Retrieved from https://plugins.jetbrains.com/plugin/7983-android-wifi-adb
 
-### Marketing
+### Marketing<a name="marketing"></a>
 
 [1] The Noob Guide to Online Marketing (With Giant INFOGRAPHIC) - Moz. Retrieved from https://moz.com/blog/the-noob-guide-to-online-marketing-with-giant-infographic-11928
 
@@ -698,7 +708,7 @@ A random list of my bookmarks regarding Android Development and other related to
 
 [4] An 8-Min Guide to App Landing Pages – The Startup – Medium. Retrieved from https://medium.com/swlh/an-8-min-guide-to-app-landing-pages-4f70e4026e71
 
-### Design
+### Design<a name="design"></a>
 
 [1] Knock Design Into Shape. Psychology of Shapes. – UX Planet. Retrieved from https://uxplanet.org/knock-design-into-shape-psychology-of-shapes-6e43c6e59955
 
@@ -734,7 +744,7 @@ A random list of my bookmarks regarding Android Development and other related to
 
 [17] Behind the scenes of the Shazam animation – Inside Shazam. Retrieved from https://blog.shazam.com/behind-the-scenes-of-the-shazam-animation-9bc7f922b2be
 
-### Git
+### Git<a name="git"></a>
 
 [1] Boost your productivity using Markdown. – Hacker Noon. Retrieved from https://hackernoon.com/boost-your-productivity-using-markdown-b8a84fc2a089
 
@@ -758,7 +768,7 @@ A random list of my bookmarks regarding Android Development and other related to
 
 [11] 24 Pull Requests. Retrieved from https://24pullrequests.com/
 
-### Business
+### Business<a name="business"></a>
 
 [1] Being a Startup Founder is a minimum wage job — Here’s the proof. Retrieved from https://medium.com/the-mission/being-a-startup-founder-is-a-minimum-wage-job-heres-the-proof-cae616a44b99
 
@@ -780,6 +790,6 @@ A random list of my bookmarks regarding Android Development and other related to
 
 [10] How to do things that don’t scale? – The Startup – Medium. Retrieved from https://medium.com/swlh/how-to-do-things-that-dont-scale-73eee1f59d77
 
-### Kotlin
+### Kotlin<a name="kotlin"></a>
 
 [1] Unit testing protected lifecycle methods with Kotlin. Retrieved from https://medium.com/@dpreussler/unit-testing-activity-lifecycle-4e740f71e68a
