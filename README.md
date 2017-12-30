@@ -1,5 +1,6 @@
 # Android-Development-Resources
 A random list of my bookmarks regarding Android Development and other related topics, updated whenever
+_Extracted from Chrome using [Bookmarks to References](https://chrome.google.com/webstore/detail/bookmarks-to-references/aigindmbmcgegjhjnonholgaebnldmln), then tweaked in Notepad++_
 
 ## Table of contents
 1. [General Android Stuff](#android)
