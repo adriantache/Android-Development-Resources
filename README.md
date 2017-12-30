@@ -1,5 +1,5 @@
 # Android-Development-Resources
-A random list of my bookmarks regarding Android Development, updated whenever
+A random list of my bookmarks regarding Android Development and other related topics, updated whenever
 
 
 [1] Android phone for developer. - Courses / Google Challenge Scholarship: Android Basics - Udacity Discussion Forum. Retrieved from https://discussions.udacity.com/t/android-phone-for-developer/415334/6
