@@ -12,7 +12,7 @@ _Extracted from Chrome using [Bookmarks to References](https://chrome.google.com
 6. [Business](#business)
 7. [Kotlin](#kotlin)
 8. [Java](#java)
-9. [Testing] (#testing)
+9. [Testing](#testing)
 
 ### General Android Stuff<a name="android"/>
 
