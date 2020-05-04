@@ -1164,8 +1164,6 @@ _Extracted from Chrome using [Bookmarks to References](https://chrome.google.com
 
 [69] SVGOMG - SVGO's Missing GUI. Retrieved from https://jakearchibald.github.io/svgomg/
 
-[70] Apolonia Lapiedra - I Want To Fuck You Too - Joy Mii #artporn on YourPorn. Sexy. Retrieved from https://yourporn.sexy/post/59c4eb185f055.html
-
 [71] Unicode table - List of most common Unicode characters *. Retrieved from https://gist.github.com/ivandrofly/0fe20773bd712b303f78
 
 [72] Localization checklist | Android Developers. Retrieved from https://developer.android.com/distribute/best-practices/launch/localization-checklist.html?utm_source=udacity&utm_medium=course&utm_campaign=android_basics#manage-strings
